@@ -37,13 +37,15 @@ A simple web app to generate stunning AI images from text prompts using **Stable
 ### 1. Clone the repo  
    
    git clone https://github.com/zeesh8x/ai-image-generator.git
+   
    cd ai-image-generator
 
 ### 2. Create and activate a virtual environment (optional but recommended)
 
   python -m venv venv
-  source venv/bin/activate  # Linux/macOS
-  venv\Scripts\activate     # Windows
+  
+  (Windows): venv\Scripts\activate  
+  (Linux): source venv/bin/activate
 
 ### 3. Install dependencies
 
